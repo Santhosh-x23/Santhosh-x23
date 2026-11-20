@@ -2,23 +2,27 @@
 
 **Associate Full-Stack Developer** from Tamil Nadu, India
 
-I build web applications and learn by doing. Recently I started contributing to open source, and one of my pull requests to Supabase has been merged.
+I build web applications and learn by doing.
 
 ## 🚀 What I'm up to
 
 - 💻 Working as an Associate Full-Stack Developer
-- 🌱 Contributing to [Supabase](https://github.com/supabase/supabase): I reproduce a bug first, open an issue with the evidence, then send a small, tested fix
-- 🛠️ Building personal projects
+- 🏢 Founder of Chennai Web Solutions, building websites and web apps for clients
+- 🌱 Contributing to open source
+
+## 🏆 Client work
+
+- **[AryaServ International](https://aryaserv.com/)**: built the company website and its admin panel, and delivered them to the client. AryaServ manufactures fire and rescue and concrete equipment. Built with Next.js and hosted on Cloudflare.
+- **[Harimidhu Organic](https://www.harimidhuorganic.com/)**: built the online store website for an organic food shop in Chennai. Built with Next.js and hosted on Netlify.
+- **Harimidhu Organic, shop management dashboard** ([repo](https://github.com/Santhosh-x23/harimidhu-shop-management)): built an internal dashboard for the same client to manage the shop. Built with TypeScript.
+
+## 🛠️ Personal projects
+
+- **[KeepAlive](https://keepalive-dashboard.vercel.app/)**: a project health and scheduler dashboard that monitors projects and keeps databases awake. Sign in with GitHub. Built with Next.js and hosted on Vercel.
 
 ## 🌱 Open source
 
-- Merged: [docs(guides): fix code fence languages in three guides (#53722)](https://github.com/supabase/supabase/pull/53722)
-- All my Supabase pull requests and their current status: [view on GitHub](https://github.com/supabase/supabase/pulls?q=is%3Apr+author%3ASanthosh-x23)
-
-## 📁 Projects
-
-- [harimidhu-shop-management](https://github.com/Santhosh-x23/harimidhu-shop-management): shop management dashboard for Harimidhu Organic
-- [harimidhu-website](https://github.com/Santhosh-x23/harimidhu-website): customer website for Harimidhu Organic
+- Merged a docs fix into Supabase: [#53722](https://github.com/supabase/supabase/pull/53722)
 
 ## 🌐 Connect
 
